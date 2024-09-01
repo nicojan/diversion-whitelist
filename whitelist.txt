@@ -2,3 +2,4 @@ adservice.google.com
 adservices.google.com
 analytics.google.com
 googleadservices.com
+aylanetworks.com
